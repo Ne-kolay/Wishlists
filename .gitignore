@@ -1,0 +1,39 @@
+# ---- Java / Maven ----
+/target/
+/out/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# Maven wrapper
+.mvn/
+mvnw
+mvnw.cmd
+
+# IDE / Editor configs
+*.iml
+.idea/
+*.iws
+*.ipr
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs / temp
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Local env files
+.env
+*.env
+
+# Test reports
+/test-output/
+surefire-reports/
